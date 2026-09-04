@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hi there, I'm Humair(Umair) 👋<br><br>🎓 **Data Analyst & aspiring Data Scientist** finishing up my BBA, with a core focus on converting raw data into actionable business value.
+# Hi there, I'm Humair(Umair) <br><br> **Data Analyst & aspiring Data Scientist** finishing up my BBA, with a core focus on converting raw data into actionable business value.
 
 
 ## 🌐 Socials:
