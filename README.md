@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Humair(Umair) 👋<br><br>🎓 **Data Analyst & aspiring Data Scientist** finishing up my BBA, with a core focus on converting raw data into actionable business value.<br><br>---<br><br>### 🛠️ Technical Toolkit<br>- **Languages:** Python, SQL<br>- **Data & Analytics:** pandas, NumPy, Seaborn, Matplotlib, SQL (CTEs, Window Functions, Joins)<br>- **Machine Learning & NLP:** scikit-learn (Regression, Classification, Tuning), NLTK (Text Preprocessing, BoW)<br>- **Deployment & Tools:** Streamlit, Git, GitHub, Jupyter Notebooks<br><br>---<br><br>### 🚀 Highlighted Work<br>- **[Customer Churn Prediction Engine](https://github.com/humairDS/customer-churn-prediction)**  <br>  *End-to-end ML model built with scikit-learn and deployed via Streamlit to predict customer retention.*
+# Hi there, I'm Humair(Umair) 👋<br><br>🎓 **Data Analyst & aspiring Data Scientist** finishing up my BBA, with a core focus on converting raw data into actionable business value.<br><br>---<br><br>### 🛠️
 
 
 ## 🌐 Socials:
