@@ -33,10 +33,3 @@
 [![](https://komarev.com/ghpvc/?username=HumairDS&icon=0&color=13)](https://visitcount.itsvg.in)
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=humairDS&show_icons=true&theme=tokyonight&count_private=true" alt="Umair's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairDS&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
-</p>
-
