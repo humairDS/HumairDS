@@ -9,15 +9,18 @@
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 | Project | Description | Tech Stack | Highlights / Links |
 | :--- | :--- | :--- | :--- |
-| **PeakPilot AI Fitness** | AI Integrated Fitness System Using Gemini Api for Fitness Advice. | Python, Flask,  | [Repository](https://github.com/humairDS/PeakPilot) |
-| **Karachi Real Estate Strategy & Yield Engine** | Localized real estate analytics platform evaluating rental yield and investment ROI across market zones. | Python, SQL, Power BI | [Repository](https://github.com/humairDS) |
-| **Customer Churn Prediction Engine** | End-to-end Machine Learning pipeline predicting customer retention with ROC-AUC evaluation. | Python, Scikit-Learn, Pandas | [Repository](https://github.com/humairDS) |
-| **Interactive Banking Management System** | OOP-based financial dashboard application with custom exception handling and transaction tracking. | Python, Streamlit | [Repository](https://github.com/humairDS) |
-| **NLP Text Processing & Word Embeddings** | Pipeline for text preprocessing, TF-IDF vectorization, and semantic modeling. | NLTK, Gensim, Python | [Repository](https://github.com/humairDS) |
+| **PeakPilot AI Fitness** | AI Integrated Fitness System Using Gemini Api for Fitness Advice. | Python, React, Streamlt, Flask,  | [Repository](https://github.com/humairDS/PeakPilot) |
+| **Karachi Real Estate Strategy & Yield Engine** | Localized real estate analytics platform evaluating rental yield and investment ROI across market zones. | Python, SQL, Power BI | [Repository](https://github.com/humairDS/Karachi-Real-Estate-Strategy-Yield-Engine) |
+| **NLP Text Processing & Word Embeddings** | Pipeline for text preprocessing, TF-IDF vectorization, and semantic modeling. | NLTK, Gensim, Python | [Repository](https://github.com/humairDS/NLP-Text-Processing-Word-Embeddings) |
+| **Customer Churn Prediction** | An end-to-end Machine Learning pipeline designed to identify telecom customers at risk of cancelling their subscriptions. | Python, Streamlit | [Repository](https://github.com/humairDS/Customer-Churn-Prediction-) |
+| **Algerian Forest Fire Analysis** | End-to-end Data Science project — EDA & ML regression on Algerian forest fire dataset | Python, Anaconda, Jupyter Notebook | [Repository](https://github.com/humairDS/algerian_forest_fire_analysis) |
+| **Bank Management System** | This is a simple Python project that simulates a Banking System. | Python, Anaconda | [Repository](https://github.com/humairDS/Bank-Management-System) |
+| **School Management System** | This is a simple Python project that simulates a Schooling System. | Python, Anaconda | [Repository](https://github.com/humairDS/Student_Management_System) |
+| **Restaurment Management System** | This is a simple Python project that simulates a Restaurement Management System. | Python, Anaconda | [Repository](https://github.com/humairDS/Restaurent_Order_System) |
+| **Library Management System** | TA simple Library Management System built in Python using Object-Oriented Programming (OOP) concepts.. | Python, Anaconda | [Repository](https://github.com/humairDS/Library_Management_System) |
+
 
 ---
 
