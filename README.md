@@ -14,4 +14,53 @@
 ---
 [![](https://komarev.com/ghpvc/?username=HumairDS&icon=0&color=13)](https://visitcount.itsvg.in)
 
+
+# Hi there, I'm Umair 👋 
+
+### 🚀 Aspiring Data Scientist & Data Analyst | BBA Graduate
+I specialize in transforming complex raw datasets into actionable insights and predictive models. Driven by business acumen and data science, I build end-to-end analytical pipelines using Python, SQL, and Power BI.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages & Core Frameworks:**
+`Python` • `SQL` • `Pandas` • `NumPy` • `Scikit-Learn` • `NLTK` • `Gensim`
+
+**Data Visualization & BI:**
+`Power BI` • `Matplotlib` • `Seaborn` • `Microsoft Excel`
+
+**Developer Tools & Environment:**
+`Git` • `GitHub` • `Jupyter Notebooks` • `VS Code` • `Streamlit`
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Highlights / Links |
+| :--- | :--- | :--- | :--- |
+| **Karachi Real Estate Strategy & Yield Engine** | Localized real estate analytics platform evaluating rental yield and investment ROI across market zones. | Python, SQL, Power BI | [Repository](https://github.com/humairDS) |
+| **Customer Churn Prediction Engine** | End-to-end Machine Learning pipeline predicting customer retention with ROC-AUC evaluation. | Python, Scikit-Learn, Pandas | [Repository](https://github.com/humairDS) |
+| **Interactive Banking Management System** | OOP-based financial dashboard application with custom exception handling and transaction tracking. | Python, Streamlit | [Repository](https://github.com/humairDS) |
+| **NLP Text Processing & Word Embeddings** | Pipeline for text preprocessing, TF-IDF vectorization, and semantic modeling. | NLTK, Gensim, Python | [Repository](https://github.com/humairDS) |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humairDS&show_icons=true&theme=tokyonight&count_private=true" alt="Umair's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humairDS&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
+* **Portfolio / GitHub:** [github.com/humairDS](https://github.com/humairDS)
+* **Email:** `your.email@example.com`
+
+---
+*“Turning data into strategy, one dataset at a time.”*
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
