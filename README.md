@@ -9,13 +9,17 @@
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
+
 | Project | Description | Tech Stack | Highlights / Links |
 | :--- | :--- | :--- | :--- |
+| **PeakPilot AI Fitness** | AI Integrated Fitness System Using Gemini Api for Fitness Advice. | Python, Flask,  | [Repository](https://github.com/humairDS/PeakPilot) |
 | **Karachi Real Estate Strategy & Yield Engine** | Localized real estate analytics platform evaluating rental yield and investment ROI across market zones. | Python, SQL, Power BI | [Repository](https://github.com/humairDS) |
 | **Customer Churn Prediction Engine** | End-to-end Machine Learning pipeline predicting customer retention with ROC-AUC evaluation. | Python, Scikit-Learn, Pandas | [Repository](https://github.com/humairDS) |
 | **Interactive Banking Management System** | OOP-based financial dashboard application with custom exception handling and transaction tracking. | Python, Streamlit | [Repository](https://github.com/humairDS) |
 | **NLP Text Processing & Word Embeddings** | Pipeline for text preprocessing, TF-IDF vectorization, and semantic modeling. | NLTK, Gensim, Python | [Repository](https://github.com/humairDS) |
 
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=HumairDS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
